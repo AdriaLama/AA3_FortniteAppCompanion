@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "986721790784",
+    "project_id": "fortniteappcompanion-c59d8",
+    "storage_bucket": "fortniteappcompanion-c59d8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:986721790784:android:e82a6ec5e686e6e6cd28a5",
+        "android_client_info": {
+          "package_name": "com.example.aa3_fortniteappcompanion"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYV8Bpb57SkR74LQ7L-tWJk-zn2QltxHE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
